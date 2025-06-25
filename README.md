@@ -35,7 +35,7 @@ The **MultiPDF Chat App** is a user-friendly application built with Streamlit th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/multipdf-chat-app.git
+git clone git@github.com:Abhiz2411/multipdf-chat-app.git
 cd multipdf-chat-app
 ```
 
